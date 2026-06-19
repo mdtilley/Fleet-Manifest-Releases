@@ -2,6 +2,8 @@ Fleet Manifest
 
 Compatible with macOS 14+/iOS/iPadOS 17+
 
+Intel/Apple Silicon Compatible
+
 I got tired of having so many devices either at home or at work that I could barely keep track of, so I vibecoded an app to keep track of everything
 
 
